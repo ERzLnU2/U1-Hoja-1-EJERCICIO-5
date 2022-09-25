@@ -10,3 +10,4 @@ Diseño de calculadora simple en JAVA
    número y la raíz cuadrada.
 
 
+![alt text](https://repository-images.githubusercontent.com/541172350/42fe53e3-fe77-44f0-afde-12fc98089e57)
